@@ -1,5 +1,6 @@
 {
   "name": "phi",
+  "homepage": "https://73gon.github.io/phi/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,11 +9,13 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "start": "vite"
+    "start": "vite",
+    "deploy": "npm run build && gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.11",
     "framer-motion": "^12.23.9",
+    "gh-pages": "^6.3.0",
     "gsap": "^3.13.0",
     "i18next": "^25.3.2",
     "i18next-browser-languagedetector": "^8.2.0",

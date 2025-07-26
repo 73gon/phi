@@ -1,5 +1,4 @@
 import { motion } from 'framer-motion';
-import { FiArrowRight, FiPlay } from 'react-icons/fi';
 import { useTranslation } from 'react-i18next';
 import DarkVeil from '../components/ui/DarkVeil';
 import TextType from '../components/ui/TextType';

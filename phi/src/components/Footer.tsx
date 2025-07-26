@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useTranslation } from 'react-i18next';
-import { FiTwitter, FiLinkedin, FiGithub, FiMail, FiArrowUp } from 'react-icons/fi';
+import { FiTwitter, FiLinkedin, FiGithub, FiMail } from 'react-icons/fi';
 
 export function Footer() {
   const { t } = useTranslation();
@@ -11,10 +11,6 @@ export function Footer() {
     // Handle newsletter subscription
     console.log('Newsletter subscription:', email);
     setEmail('');
-  };
-
-  const scrollToTop = () => {
-    window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
   const quickLinks = [
