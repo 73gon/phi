@@ -31,7 +31,7 @@ function ScrollHandler() {
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename='/phi/'>
       <ScrollHandler />
       <Routes>
         <Route path="/" element={<App />} />
