@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "products": "Products",
+    "contact": "Contact",
+    "blog": "Blog"
+  },
+  "hero": {
+    "title1": "Phi The Future of AI is Here",
+    "title2": "Phi is Innovation",
+    "title3": "Phi is Convenience",
+    "title4": "Phi is in your Pocket",
+    "subtitle": "Phi revolutionizes artificial intelligence with cutting-edge technology that transforms how businesses operate and innovate.",
+    "cta_primary": "Get Started",
+    "cta_secondary": "Learn More",
+    "trusted_by": "Trusted by industry leaders"
+  },
+  "about": {
+    "title": "About Phi",
+    "description": "We are pioneers in artificial intelligence, building revolutionary solutions that push the boundaries of what's possible. Our mission is to democratize AI and make it accessible to everyone.",
+    "mission_title": "Our Mission",
+    "mission_text": "To create AI technologies that augment human capabilities and solve complex global challenges.",
+    "vision_title": "Our Vision",
+    "vision_text": "A world where AI empowers everyone to achieve more than they ever thought possible.",
+    "values_title": "Our Values",
+    "innovation": "Innovation",
+    "innovation_desc": "Pushing the boundaries of AI technology",
+    "ethics": "Ethics",
+    "ethics_desc": "Responsible AI development and deployment",
+    "accessibility": "Accessibility",
+    "accessibility_desc": "Making AI available to everyone"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive AI solutions tailored to your needs",
+    "ai_consulting": "AI Consulting",
+    "ai_consulting_desc": "Expert guidance on AI strategy and implementation",
+    "custom_development": "Custom Development",
+    "custom_development_desc": "Bespoke AI solutions built for your business",
+    "integration": "AI Integration",
+    "integration_desc": "Seamlessly integrate AI into your existing systems",
+    "training": "AI Training",
+    "training_desc": "Upskill your team with comprehensive AI education"
+  },
+  "products": {
+    "title": "Our Products",
+    "subtitle": "Revolutionary AI tools for the modern world",
+    "phi_assistant": "Phi Assistant",
+    "phi_assistant_desc": "Your intelligent AI companion for productivity",
+    "phi_analytics": "Phi Analytics",
+    "phi_analytics_desc": "Advanced data analysis powered by AI",
+    "phi_vision": "Phi Vision",
+    "phi_vision_desc": "Computer vision solutions for any industry",
+    "phi_nlp": "Phi NLP",
+    "phi_nlp_desc": "Natural language processing at its finest",
+    "popular": "Popular",
+    "learn_more": "Learn More"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Ready to transform your business with AI?",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "send": "Send Message"
+    },
+    "send_message": "Send Message",
+    "name_placeholder": "Your name",
+    "email_placeholder": "your.email@example.com",
+    "message_placeholder": "Tell us about your project..."
+  },
+  "footer": {
+    "company_desc": "Phi is leading the AI revolution with innovative solutions that transform businesses and empower people.",
+    "quick_links": "Quick Links",
+    "products_services": "Products & Services",
+    "follow_us": "Follow Us",
+    "newsletter_title": "Stay Updated",
+    "newsletter_desc": "Get the latest AI insights and product updates",
+    "subscribe": "Subscribe",
+    "email_placeholder": "Enter your email",
+    "copyright": "© 2025 Phi AI. All rights reserved."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "try_again": "Try Again",
+    "coming_soon": "Coming Soon",
+    "learn_more": "Learn More",
+    "get_started": "Get Started",
+    "dark_mode": "Dark Mode",
+    "light_mode": "Light Mode",
+    "language": "Language"
+  }
+}

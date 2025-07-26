@@ -1,0 +1,97 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "services": "Servicios",
+    "products": "Productos",
+    "contact": "Contacto",
+    "blog": "Blog"
+  },
+  "hero": {
+    "title": "El Futuro de la IA Está Aquí",
+    "subtitle": "Phi revoluciona la inteligencia artificial con tecnología de vanguardia que transforma cómo operan e innovan las empresas.",
+    "cta_primary": "Comenzar",
+    "cta_secondary": "Saber Más",
+    "trusted_by": "Confiado por líderes de la industria"
+  },
+  "about": {
+    "title": "Acerca de Phi",
+    "description": "Somos pioneros en inteligencia artificial, construyendo soluciones revolucionarias que empujan los límites de lo posible. Nuestra misión es democratizar la IA y hacerla accesible para todos.",
+    "mission_title": "Nuestra Misión",
+    "mission_text": "Crear tecnologías de IA que aumenten las capacidades humanas y resuelvan desafíos globales complejos.",
+    "vision_title": "Nuestra Visión",
+    "vision_text": "Un mundo donde la IA empodera a todos para lograr más de lo que pensaron posible.",
+    "values_title": "Nuestros Valores",
+    "innovation": "Innovación",
+    "innovation_desc": "Empujando los límites de la tecnología IA",
+    "ethics": "Ética",
+    "ethics_desc": "Desarrollo y despliegue responsable de IA",
+    "accessibility": "Accesibilidad",
+    "accessibility_desc": "Haciendo la IA disponible para todos"
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Soluciones integrales de IA adaptadas a sus necesidades",
+    "ai_consulting": "Consultoría en IA",
+    "ai_consulting_desc": "Orientación experta en estrategia e implementación de IA",
+    "custom_development": "Desarrollo Personalizado",
+    "custom_development_desc": "Soluciones de IA a medida para su negocio",
+    "integration": "Integración de IA",
+    "integration_desc": "Integre perfectamente la IA en sus sistemas existentes",
+    "training": "Entrenamiento en IA",
+    "training_desc": "Mejore las habilidades de su equipo con educación integral en IA"
+  },
+  "products": {
+    "title": "Nuestros Productos",
+    "subtitle": "Herramientas revolucionarias de IA para el mundo moderno",
+    "phi_assistant": "Phi Assistant",
+    "phi_assistant_desc": "Su compañero inteligente de IA para la productividad",
+    "phi_analytics": "Phi Analytics",
+    "phi_analytics_desc": "Análisis avanzado de datos impulsado por IA",
+    "phi_vision": "Phi Vision",
+    "phi_vision_desc": "Soluciones de visión por computadora para cualquier industria",
+    "phi_nlp": "Phi NLP",
+    "phi_nlp_desc": "Procesamiento de lenguaje natural en su máxima expresión",
+    "popular": "Popular",
+    "learn_more": "Saber Más"
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "subtitle": "¿Listo para transformar su negocio con IA?",
+    "email": "Email",
+    "phone": "Teléfono",
+    "address": "Dirección",
+    "form": {
+      "name": "Nombre",
+      "email": "Email",
+      "message": "Mensaje",
+      "send": "Enviar Mensaje"
+    },
+    "send_message": "Enviar Mensaje",
+    "name_placeholder": "Su nombre",
+    "email_placeholder": "su.email@ejemplo.com",
+    "message_placeholder": "Cuéntanos sobre su proyecto..."
+  },
+  "footer": {
+    "company_desc": "Phi está liderando la revolución de la IA con soluciones innovadoras que transforman empresas y empoderan a las personas.",
+    "quick_links": "Enlaces Rápidos",
+    "products_services": "Productos y Servicios",
+    "follow_us": "Síguenos",
+    "newsletter_title": "Mantente Actualizado",
+    "newsletter_desc": "Obtén las últimas perspectivas de IA y actualizaciones de productos",
+    "subscribe": "Suscribirse",
+    "email_placeholder": "Ingresa tu email",
+    "copyright": "© 2025 Phi AI. Todos los derechos reservados."
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Algo salió mal",
+    "try_again": "Intentar de Nuevo",
+    "coming_soon": "Próximamente",
+    "learn_more": "Saber Más",
+    "get_started": "Comenzar",
+    "dark_mode": "Modo Oscuro",
+    "light_mode": "Modo Claro",
+    "language": "Idioma"
+  }
+}

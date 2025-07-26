@@ -1,0 +1,89 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Services",
+    "products": "Produits",
+    "contact": "Contact",
+    "blog": "Blog"
+  },
+  "hero": {
+    "title": "L'Avenir de l'IA est Ici",
+    "subtitle": "Phi révolutionne l'intelligence artificielle avec une technologie de pointe qui transforme la façon dont les entreprises opèrent et innovent.",
+    "cta_primary": "Commencer",
+    "cta_secondary": "En Savoir Plus",
+    "trusted_by": "Approuvé par les leaders de l'industrie"
+  },
+  "about": {
+    "title": "À Propos de Phi",
+    "description": "Nous sommes des pionniers en intelligence artificielle, construisant des solutions révolutionnaires qui repoussent les limites du possible. Notre mission est de démocratiser l'IA et de la rendre accessible à tous.",
+    "mission_title": "Notre Mission",
+    "mission_text": "Créer des technologies d'IA qui augmentent les capacités humaines et résolvent des défis mondiaux complexes.",
+    "vision_title": "Notre Vision",
+    "vision_text": "Un monde où l'IA permet à chacun d'accomplir plus qu'il n'a jamais pensé possible.",
+    "values_title": "Nos Valeurs",
+    "innovation": "Innovation",
+    "innovation_desc": "Repousser les limites de la technologie IA",
+    "ethics": "Éthique",
+    "ethics_desc": "Développement et déploiement responsables de l'IA",
+    "accessibility": "Accessibilité",
+    "accessibility_desc": "Rendre l'IA disponible pour tous"
+  },
+  "services": {
+    "title": "Nos Services",
+    "subtitle": "Solutions d'IA complètes adaptées à vos besoins",
+    "ai_consulting": "Conseil en IA",
+    "ai_consulting_desc": "Guidance experte sur la stratégie et l'implémentation de l'IA",
+    "custom_development": "Développement Sur Mesure",
+    "custom_development_desc": "Solutions d'IA personnalisées pour votre entreprise",
+    "integration": "Intégration IA",
+    "integration_desc": "Intégrez parfaitement l'IA dans vos systèmes existants",
+    "training": "Formation IA",
+    "training_desc": "Améliorez les compétences de votre équipe avec une éducation complète en IA"
+  },
+  "products": {
+    "title": "Nos Produits",
+    "subtitle": "Outils révolutionnaires d'IA pour le monde moderne",
+    "phi_assistant": "Phi Assistant",
+    "phi_assistant_desc": "Votre compagnon IA intelligent pour la productivité",
+    "phi_analytics": "Phi Analytics",
+    "phi_analytics_desc": "Analyse avancée de données alimentée par l'IA",
+    "phi_vision": "Phi Vision",
+    "phi_vision_desc": "Solutions de vision par ordinateur pour toute industrie",
+    "phi_nlp": "Phi NLP",
+    "phi_nlp_desc": "Traitement du langage naturel à son meilleur"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Prêt à transformer votre entreprise avec l'IA ?",
+    "email": "Email",
+    "phone": "Téléphone",
+    "address": "Adresse",
+    "send_message": "Envoyer un Message",
+    "name_placeholder": "Votre nom",
+    "email_placeholder": "votre.email@exemple.com",
+    "message_placeholder": "Parlez-nous de votre projet..."
+  },
+  "footer": {
+    "company_desc": "Phi mène la révolution de l'IA avec des solutions innovantes qui transforment les entreprises et autonomisent les personnes.",
+    "quick_links": "Liens Rapides",
+    "products_services": "Produits et Services",
+    "follow_us": "Suivez-nous",
+    "newsletter_title": "Restez Informé",
+    "newsletter_desc": "Obtenez les dernières perspectives sur l'IA et les mises à jour de produits",
+    "subscribe": "S'abonner",
+    "email_placeholder": "Entrez votre email",
+    "copyright": "© 2025 Phi AI. Tous droits réservés."
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Quelque chose s'est mal passé",
+    "try_again": "Réessayer",
+    "coming_soon": "Bientôt Disponible",
+    "learn_more": "En Savoir Plus",
+    "get_started": "Commencer",
+    "dark_mode": "Mode Sombre",
+    "light_mode": "Mode Clair",
+    "language": "Langue"
+  }
+}

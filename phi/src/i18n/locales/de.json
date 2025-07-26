@@ -1,0 +1,97 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "services": "Dienstleistungen",
+    "products": "Produkte",
+    "contact": "Kontakt",
+    "blog": "Blog"
+  },
+  "hero": {
+    "title": "Die Zukunft der KI ist da",
+    "subtitle": "Phi revolutioniert die künstliche Intelligenz mit modernster Technologie, die verändert, wie Unternehmen arbeiten und innovieren.",
+    "cta_primary": "Loslegen",
+    "cta_secondary": "Mehr erfahren",
+    "trusted_by": "Vertraut von Branchenführern"
+  },
+  "about": {
+    "title": "Über Phi",
+    "description": "Wir sind Pioniere der künstlichen Intelligenz und entwickeln bahnbrechende Lösungen, die die Grenzen des Möglichen erweitern. Unsere Mission ist es, KI zu demokratisieren und für alle zugänglich zu machen.",
+    "mission_title": "Unsere Mission",
+    "mission_text": "KI-Technologien zu schaffen, die menschliche Fähigkeiten erweitern und komplexe globale Herausforderungen lösen.",
+    "vision_title": "Unsere Vision",
+    "vision_text": "Eine Welt, in der KI jeden dazu befähigt, mehr zu erreichen, als sie für möglich hielten.",
+    "values_title": "Unsere Werte",
+    "innovation": "Innovation",
+    "innovation_desc": "Die Grenzen der KI-Technologie erweitern",
+    "ethics": "Ethik",
+    "ethics_desc": "Verantwortliche Entwicklung und Bereitstellung von KI",
+    "accessibility": "Zugänglichkeit",
+    "accessibility_desc": "KI für alle verfügbar machen"
+  },
+  "services": {
+    "title": "Unsere Dienstleistungen",
+    "subtitle": "Umfassende KI-Lösungen, die auf Ihre Bedürfnisse zugeschnitten sind",
+    "ai_consulting": "KI-Beratung",
+    "ai_consulting_desc": "Expertenberatung zu KI-Strategie und -Implementierung",
+    "custom_development": "Individuelle Entwicklung",
+    "custom_development_desc": "Maßgeschneiderte KI-Lösungen für Ihr Unternehmen",
+    "integration": "KI-Integration",
+    "integration_desc": "Nahtlose Integration von KI in Ihre bestehenden Systeme",
+    "training": "KI-Schulung",
+    "training_desc": "Verbessern Sie die Fähigkeiten Ihres Teams mit umfassender KI-Bildung"
+  },
+  "products": {
+    "title": "Unsere Produkte",
+    "subtitle": "Revolutionäre KI-Tools für die moderne Welt",
+    "phi_assistant": "Phi Assistant",
+    "phi_assistant_desc": "Ihr intelligenter KI-Begleiter für Produktivität",
+    "phi_analytics": "Phi Analytics",
+    "phi_analytics_desc": "Erweiterte, KI-gestützte Datenanalytik",
+    "phi_vision": "Phi Vision",
+    "phi_vision_desc": "Computer-Vision-Lösungen für jede Branche",
+    "phi_nlp": "Phi NLP",
+    "phi_nlp_desc": "Natürliche Sprachverarbeitung auf höchstem Niveau",
+    "popular": "Beliebt",
+    "learn_more": "Mehr erfahren"
+  },
+  "contact": {
+    "title": "Kontaktieren Sie uns",
+    "subtitle": "Bereit, Ihr Unternehmen mit KI zu transformieren?",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "address": "Adresse",
+    "form": {
+      "name": "Name",
+      "email": "E-Mail",
+      "message": "Nachricht",
+      "send": "Nachricht senden"
+    },
+    "send_message": "Nachricht senden",
+    "name_placeholder": "Ihr Name",
+    "email_placeholder": "ihre.email@beispiel.com",
+    "message_placeholder": "Erzählen Sie uns von Ihrem Projekt..."
+  },
+  "footer": {
+    "company_desc": "Phi führt die KI-Revolution mit innovativen Lösungen an, die Unternehmen transformieren und Menschen stärken.",
+    "quick_links": "Schnelllinks",
+    "products_services": "Produkte und Dienstleistungen",
+    "follow_us": "Folgen Sie uns",
+    "newsletter_title": "Bleiben Sie auf dem Laufenden",
+    "newsletter_desc": "Erhalten Sie die neuesten KI-Erkenntnisse und Produktupdates",
+    "subscribe": "Abonnieren",
+    "email_placeholder": "E-Mail eingeben",
+    "copyright": "© 2025 Phi AI. Alle Rechte vorbehalten."
+  },
+  "common": {
+    "loading": "Laden...",
+    "error": "Etwas ist schief gelaufen",
+    "try_again": "Erneut versuchen",
+    "coming_soon": "Demnächst",
+    "learn_more": "Mehr erfahren",
+    "get_started": "Loslegen",
+    "dark_mode": "Dunkler Modus",
+    "light_mode": "Heller Modus",
+    "language": "Sprache"
+  }
+}
