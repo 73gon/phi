@@ -201,17 +201,27 @@ export function Navbar() {
 
       {/* Mobile Menu - Fixed Overlay Outside Navbar */}
       {isMenuOpen && (
-        <motion.div className="fixed inset-0 z-[70] bg-black/60 md:hidden" initial="closed" animate="open" variants={menuVariants}>
-          <div className="px-6 pb-6 pt-24">
-            <div className="space-y-2 mt-4">
+        <motion.div className="fixed inset-0 z-[70] bg-black/60 md:hidden flex items-start justify-center" initial="closed" animate="open" variants={menuVariants} onClick={() => setIsMenuOpen(false)}>
+          <button
+            className="absolute top-8 right-8 z-[71] p-3 rounded-full bg-white/10 hover:bg-white/20 text-white transition-all duration-200 shadow-lg"
+            aria-label="Close menu"
+            onClick={(e) => {
+              e.stopPropagation();
+              setIsMenuOpen(false);
+            }}
+          >
+            <FiX className="w-6 h-6" />
+          </button>
+          <div className="w-full max-w-md mx-auto mt-24" onClick={(e) => e.stopPropagation()}>
+            <div className="glass-card rounded-3xl shadow-2xl p-6 space-y-1">
               {navItems.map((item) => (
                 <motion.a
                   key={item.key}
                   href={item.href}
-                  className="block py-3 text-white/80 hover:text-white font-medium transition-colors duration-200 text-lg rounded-xl bg-white/10 hover:bg-white/20"
+                  className="block py-4 px-6 text-xl font-bold text-white/90 hover:text-white rounded-2xl bg-gradient-to-r from-phi-primary-900/60 to-phi-accent-900/60 hover:from-phi-primary-700/80 hover:to-phi-accent-700/80 transition-all duration-200 shadow-md tracking-tight"
                   variants={itemVariants}
                   onClick={() => setIsMenuOpen(false)}
-                  whileHover={{ x: 8 }}
+                  whileHover={{ x: 8, scale: 1.04 }}
                   transition={{ duration: 0.2 }}
                 >
                   {item.label}
