@@ -5,6 +5,8 @@ import { useTranslation } from 'react-i18next';
 import { FiGlobe, FiMenu, FiX } from 'react-icons/fi';
 import GlassSurface from './ui/GlassSurface';
 
+import Phi from '../components/ui/Phi';
+
 export function Navbar() {
   const { t, i18n } = useTranslation();
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -101,8 +103,8 @@ export function Navbar() {
           <div className="flex items-center justify-between h-full w-full">
             {/* Logo */}
             <div className="flex items-center space-x-3">
-              <div className="size-10 logo-bg rounded-2xl flex items-center justify-center shadow-lg">
-                <span className="text-white font-bold text-xl">Φ</span>
+              <div className="size-10 logo-bg rounded-2xl flex items-center justify-center shadow-lg pb-2">
+                <Phi />
               </div>
             </div>
 

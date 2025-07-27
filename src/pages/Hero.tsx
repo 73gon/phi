@@ -2,6 +2,7 @@ import { motion } from 'framer-motion';
 import { useTranslation } from 'react-i18next';
 import DarkVeil from '../components/ui/DarkVeil';
 import TextType from '../components/ui/TextType';
+import Logo from '../components/ui/Logo';
 
 export function Hero() {
   const { t } = useTranslation();
@@ -30,7 +31,7 @@ export function Hero() {
   };
 
   return (
-    <section id="home" className="relative min-h-screen flex items-center justify-center overflow-hidden pt-20">
+    <section id="home" className="relative min-h-screen flex items-center justify-center overflow-hidden pt-4">
       {/* DarkVeil Background */}
       <div className="absolute inset-0 w-full h-full z-0 pointer-events-none">
         <DarkVeil hueShift={-10} noiseIntensity={0.1} scanlineIntensity={0.12} speed={0.9} scanlineFrequency={12.0} warpAmount={0.08} resolutionScale={1} />
@@ -39,6 +40,7 @@ export function Hero() {
       {/* Content */}
       <div className="relative">
         <motion.div className="container mx-auto px-6 py-32 text-center z-10" variants={containerVariants} initial="hidden" animate="visible">
+          <Logo />
           {/* Main Heading */}
           <motion.h1 variants={itemVariants} className="text-display font-black text-phi-neutral-900 dark:text-white mb-6 max-w-4xl mx-auto ">
             <TextType
